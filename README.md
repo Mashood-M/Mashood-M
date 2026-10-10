@@ -72,14 +72,6 @@ I build web apps, mobile apps and automations that save time.
 
 <img src="https://ghchart.rshah.org/22C55E/Mashood-M" alt="Contribution graph" width="95%"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Mashood-M&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3D3D3D&border=3D3D3D&border_radius=12" alt="Streak stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mashood-M&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=3D3D3D&border_radius=12" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashood-M&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=3D3D3D&border_radius=12" height="165" alt="Top languages" />
 
 </div>
 
