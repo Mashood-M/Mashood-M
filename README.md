@@ -1,42 +1,72 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:3D3D3D&section=header" width="100%" alt="header"/>
+
 # Mashood M
 
-**Full-Stack Developer · Bots & AI Automation**
+### Full-Stack Developer · Bots & AI Automation
 
 I build web apps, mobile apps and automations that save time.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mashood-m-5516b71a7"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=22C55E" alt="LinkedIn" /></a>
-<a href="mailto:mashoodmdev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open_to_work-22C55E?style=flat-square" alt="Open to work" />
+<a href="https://www.linkedin.com/in/mashood-m-5516b71a7"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="mailto:mashoodmdev@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
 
 </div>
 
-<br/>
+---
+
+## What I Do
+
+| | |
+|---|---|
+| **Web Development** | Fast, responsive and clean websites and web applications |
+| **Mobile Apps** | Cross-platform mobile apps built with Flutter |
+| **Automation** | Bots and workflows that remove repetitive manual work |
 
 ---
 
-### Skills
+## Skills
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,dart,html,css&theme=dark" alt="Languages" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,flutter&theme=dark" alt="Frontend and Mobile" /> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,sqlite&theme=dark" alt="Backend and Database" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode&theme=dark" alt="Tools and Design" /> |
+
+---
+
+## Bots & AI Automation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,dart,html,css,react,nextjs,tailwind,threejs,flutter,nodejs,supabase,postgres,sqlite,git,github,linux,figma,vscode&theme=dark&perline=10" alt="Skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=22C55E" alt="n8n" />
-<img src="https://img.shields.io/badge/Telegram_Bot-000000?style=flat-square&logo=telegram&logoColor=22C55E" alt="Telegram Bot" />
-<img src="https://img.shields.io/badge/Discord_Bot-000000?style=flat-square&logo=discord&logoColor=22C55E" alt="Discord Bot" />
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br/>
+<b>n8n</b><br/>
+<sub>Workflow automation</sub>
+</td>
+<td align="center" width="180">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" alt="Telegram" /><br/>
+<b>Telegram Bots</b><br/>
+<sub>Chat automation</sub>
+</td>
+<td align="center" width="180">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" /><br/>
+<b>Discord Bots</b><br/>
+<sub>Community tools</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
-
 ---
 
-### Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -44,16 +74,19 @@ I build web apps, mobile apps and automations that save time.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mashood-M&background=000000&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=22C55E&border=22C55E&border_radius=12" alt="Streak stats" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=Mashood-M&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3D3D3D&border=3D3D3D&border_radius=12" alt="Streak stats" />
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mashood-M&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=3D3D3D&border_radius=12" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashood-M&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=3D3D3D&border_radius=12" height="165" alt="Top languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>Let's build something good together.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3D3D3D,100:000000&section=footer" width="100%" alt="footer"/>
 
 </div>
